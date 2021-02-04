@@ -41,35 +41,37 @@ promo:
     ile konuşalım.
 about_product:
   enable: true
-  title: Why Choose Apple Watch
+  title: Kardiyolojinin Geleceği. Şimdi.
   items:
   - image: images/showcase/showcase-4.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: Anjiyo Daha Emniyetli ve Daha Konforlu
+    content: Dünyadaki en ince ve yumuşak malzemeler ile el bileğinden yapılan anjiyo
+      ve stent işlemleri daha emniyetli ve daha konforludur. İşlemden hemen sonra
+      ayağa kalkabilirsiniz. Lokal anestezi ile yaklaşık 5 dakika sürmektedir. 1 saat
+      sonra evinize dönebilirsiniz.
     button:
-      enable: false
-      label: Check Features
-      link: "#"
+      enable: true
+      label: Ayrıntılar
+      link: "/anjiyostent"
   - image: images/showcase/showcase-3.png
-    title: Lorem ipsum dolor sit amet.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate,
-      sed, assumenda. Tenetur sed esse, voluptas voluptate est veniam numquam, quis
-      magni. Architecto minus suscipit quas, quo harum deserunt consequatur cumque!
+    title: İleri Teknolojiler. Sizin İçin.
+    content: Sadece anjiyo ve stent teknolojisi değil, kalp ve damar hastalıklarının
+      her alanında teknoloji ilerlemektedir. Eskiden ameliyat dışında çaresi olmayan
+      pek çok alanda kapalı yöntemlerle tedavi mümkün. TAVI, MitraClip veya renal
+      denervasyon gibi.
     button:
-      enable: false
-      label: Check Features
-      link: "#"
+      enable: true
+      label: Ayrıntılar
+      link: "/islemler"
 products:
-  enable: true
+  enable: false
   title: Checkout Our All Products
 subscription:
   enable: true
   bg_image: images/call-to-action.jpg
-  title: Get Product Updates
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  placeholder: Your Email Address Here
+  title: Abone Olun
+  content: Kardiyolojideki gelişmelerden haberdar olun.
+  placeholder: Email adresiniz
 testimonial:
   enable: true
   title: Watch Review
