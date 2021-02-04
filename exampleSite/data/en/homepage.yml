@@ -76,6 +76,14 @@ testimonial:
   enable: true
   title: Sizden Gelenler.
   testimonial_item:
+  - name: Zehra T.
+    designation: "2018"
+    image: ''
+    content: Acil olarak hastaneye gittiğimde orada yetkili bir arkadaşım bizi Alp
+      beye yönlendirdi. Çok doğru bir yönlendirme oldu. 2 operasyon gerçekleştirdi.
+      Aynı zamanda eşimde bypass oldu 5 damarı açıldı Alp bey tarafından. Her konuda
+      çok memnun kaldık. Halen hastasıyım alp beyin takibindeyim. Doğru teşhis ve
+      hızlı tedavisi ile oldukça başarılı bir doktor.
   - name: Taner R.
     designation: "2018"
     image: ''
