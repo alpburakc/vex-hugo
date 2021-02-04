@@ -19,20 +19,20 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Blog"
-url = "blog"
+name = "Özgeçmiş"
+url = "ozgecmis"
 weight = 1
 [[menu.footer]]
-name = "Contact"
-url = "contact"
+name = "Randevu"
+url = "randevu"
 weight = 2
 [[menu.footer]]
-name = "Terms & Conditions"
-url = "terms-conditions"
+name = "Basın"
+url = "basin"
 weight = 3
 [[menu.footer]]
-name = "Privacy Policy"
-url = "privacy-policy"
+name = "Yorumlar"
+url = "yorumlar"
 weight = 4
 [[menu.main]]
 name = "Ana Sayfa"
