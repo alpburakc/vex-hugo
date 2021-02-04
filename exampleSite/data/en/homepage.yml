@@ -10,34 +10,27 @@ banner:
     link: randevu
 features:
   enable: true
-  title: Our Core Features
+  title: Ameliyatsız Çözümler
   image: images/watch-2.png
   left_side:
-  - title: Smooth Touch
+  - title: El Bileğinden Anjiyo ve Stent
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
+    content: Çok ince ve yumuşak malzemeler ile 5-10 dakika içinde koroner damarlar       ayrıntılı
+      incelenebilir. Stent işlemi aynı seansta ve yine koldan yapılabilmektedir.
+  - title: TAVI ile Aort Kapak Değişimi
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Ameliyatsız, kapalı yöntemlerle aort kapak değişimleri mümkün Yeni protokoller
+      ile ertesi gün taburculuk imkanı.
   right_side:
-  - title: Smooth Touch
+  - title: MitraClip
     icon: tf-ion-ios-alarm-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Elegant Design
+    content: Mitral kapak kaçağı ameliyatsız tedavi edilebilir. Kapalı yöntemle ileri
+      mitral kaçağınızı azaltabiliriz. İyi bir planlama ile başarılı sonuçlar mümkün
+  - title: Renal Denervasyon
     icon: tf-ion-ios-bell-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
-  - title: Easy Pricing
-    icon: tf-ion-ios-cart-outline
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatem,
-      inventore?
+    content: Renal denervasyon ile hipertansiyona yeni teknolojiler ile çözüm bulunabilir.
+      Lokal       anestezi ile ameliyatsız ve emniyetli. Üstelik yeni protokollerle
+      aynı gün taburculuk mümkün
 promo:
   enable: true
   image: images/watch.png
