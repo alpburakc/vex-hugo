@@ -10,7 +10,7 @@ banner:
     link: randevu
 features:
   enable: true
-  title: Ameliyatsız Çözümler
+  title: Ameliyatsız Çözümler.
   image: images/watch-2.png
   left_side:
   - title: El Bileğinden Anjiyo ve Stent
