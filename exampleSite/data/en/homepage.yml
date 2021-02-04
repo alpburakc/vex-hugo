@@ -76,6 +76,14 @@ testimonial:
   enable: true
   title: Sizden Gelenler.
   testimonial_item:
+  - name: Aynur R.
+    designation: "2014"
+    image: ''
+    content: Gittiğim hastanede tanıdığım doktorlar sayesinde doktorumla tanıştım.
+      Kesinlikle çok başarılı bir doktor bilgili en önemlisi insan psikolojisinden
+      çok iyi anlayan bir doktor. Tedavim en iyi şekilde sonuç verdi. Hastalarını
+      hassasiyetle muayene ediyor. Tedavim bitmesine rağmen aradığımda beni hiç yanıtsız
+      bırakmıyor. Hastalarıyla iletişimini tedavi bitse de sürdürüyor.
   - name: Zehra T.
     designation: "2018"
     image: ''
