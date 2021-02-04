@@ -3,7 +3,7 @@ banner:
   enable: true
   title: Prof. Dr. Alp Burak Çatakoğlu
   content: Girişimsel Kardiyolog. Minimalist.
-  image: images/alp-kare-3.png
+  image: images/alp_kare_3.png
   button:
     enable: true
     label: Randevu Al
