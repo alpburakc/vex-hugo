@@ -76,25 +76,29 @@ testimonial:
   enable: true
   title: Sizden Gelenler.
   testimonial_item:
+  - name: Taner R.
+    designation: "2018"
+    image: ''
+    content: Hocamızı 2015 yılında internetten araştırarak bulduk. Kalp yetmezliği
+      ve geçmişinde bypass ameliyatı bulunan babam Alp Burak hocam sayesinde yeniden
+      doğdu diyebilirim. Bu dünyadaki en iyi kardiyologlardan birisidir. Allah razı
+      olsun.
   - name: Ahmet N.
     designation: "2014"
     image: images/avater.png
     content: Doktoruma yaklaşık 10 senedir gidiyorum. Çok memnunum. Alp Burak hocam
       çok cana yakın bir doktor. Alanında çok başarılı hastalık konusunda en ince
       ayrıntısına kadar size bilgi veriyor. Çevremdekilere de mutlaka tavsiye ediyorum.
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
+  - name: Bülent N.
+    designation: "2014"
     image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
-  - name: Jonathon Andrew
-    designation: CEO, Themefisher
+    content: Alp Burak Çatakoğlu doktorumdan çok memnunum. Uzun yıllardır kendisine
+      gidiyorum. Alanında çok iyi olduğu için doktor değişikliği yapmadım. Sıcak kanlı
+      biri bilgilendirmeler yapıyor ve sizi yönlendiriyor herkese tavsiye ederim.
+  - name: Aynur C.
+    designation: "2014"
     image: images/avater.png
-    content: A wonderful serenity has taken possession of my entire soul, like these
-      sweet mornings of spring which I enjoy with my whole heart. I am alone, and
-      feel the charm of existence in this spot, which was created for the bliss of
-      souls like mine. I am so happy, my dear friend, so absorbed in the exquisite
-      sense of mere tranquil existence, that I neglect my talents.
+    content: Alp Burak Çatakoğlu nu ilk bir televizyon programında izlemiştim canlı
+      yayında bilekten anjio yaptı yöntem ilgimi çekti ve randevu aldım şiddetle tavsiye
+      ederim hastasını bıkmadan uzun uzun dinliyor süreç ile ilgili bilgilendiriyor
+      konuşarak sizi rahatlatıyor doktorumdan çok memnunum
