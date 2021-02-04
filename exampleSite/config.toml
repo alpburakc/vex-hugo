@@ -3,7 +3,7 @@ disableLanguages = []
 googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
-title = "Vex | hugo landing page template"
+title = "Prof. Dr. Alp Burak Çatakoğlu | Girişimsel Kardiyolog"
 [Languages.en]
 contentDir = "content/english"
 copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
@@ -35,26 +35,30 @@ name = "Privacy Policy"
 url = "privacy-policy"
 weight = 4
 [[menu.main]]
-name = "Home"
+name = "Ana Sayfa"
 url = "/"
 weight = 1
 [[menu.main]]
-name = "Products"
-url = "products"
+name = "Özgeçmiş"
+url = "ozgecmis"
 weight = 2
 [[menu.main]]
-name = "Blog"
-url = "blog"
+name = "Basın"
+url = "basin"
 weight = 3
 [[menu.main]]
-name = "Review"
+name = "Anjiyo ve Stent"
 pre = "#"
-url = "testimonial"
+url = "anjiyostent"
 weight = 4
 [[menu.main]]
-name = "Contact"
-url = "contact"
+name = "Diğer İşlemler"
+url = "islemler"
 weight = 5
+[[menu.main]]
+name = "Randevu Al"
+url = "randevu"
+weight = "6"
 [params]
 author = "Themefisher"
 contact_form_action = "#"
