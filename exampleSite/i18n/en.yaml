@@ -8,13 +8,7 @@
   translation: "Subscribe"
   
 - id: "read_more"
-  translation: "Read More"
+  translation: "Devamını Oku"
   
 - id: "subscribe"
-  translation: "Subscribe"
-  
-- id: "subscribe"
-  translation: "Subscribe"
-  
-- id: "subscribe"
-  translation: "Subscribe"
+  translation: "Abone Ol"
