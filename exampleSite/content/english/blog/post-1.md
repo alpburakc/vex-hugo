@@ -1,13 +1,34 @@
 ---
-title: "How to choose right watch for you."
-date: 2019-10-17T11:22:16+06:00
-image: "images/showcase/showcase-1.png"
-description : "this is a meta description"
-draft: false
+title: Dirençli Tansiyon. Çaresiz Değil.
+date: 2021-02-05T00:00:00+03:00
+image: "/images/2-5-medtronic-symplicity-spyral.png"
+description: this is a meta description
+
 ---
+[Renal denervasyon](https://catakoglu.com/renal-denervasyon/) ile kırılamayan hipertansiyona çözüm bulunabilir. Lokal anestezi ile ameliyatsız ve emniyetli. Üstelik yeni protokollerle aynı gün taburculuk mümkün.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+{{< youtube id="97Ruu2TwPxg" >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+### Renal Denervasyon
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborumLorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum
+Hipertansiyonu olan hastaların yaklaşık %10’unda çok sayıda ilaca rağmen tansiyon 140/90 değerinin altına düşmemektedir. Üç veya daha fazla ilaca rağmen tansiyonu dirençli olan hastalarda detaylı araştırmaya rağmen bir neden bulunamıyorsa renal denervasyon yöntemi ile tansiyon kontrolüne katkı sağlanabilir.
+
+{{< youtube id="S6qalNYA28k" >}}
+
+### Renal Denervasyon Nedir?
+
+Renal denervasyon kateter vasıtasıyla yapılan bir ablasyon işlemidir. Amaç dirençli hipertansiyon hastalarında kalıcı, uzun süreli bir kan basıncı kontrolü sağlamaktır. Bu işlemin tansiyon kontrolüne katkı sağladığı klinik araştırmalar ile kanıtlanmıştır.
+
+{{< youtube id="EukuFQxis" >}}
+
+### Renal Denervasyon Nasıl Yapılır?
+
+İşlem için kasığımızda yer alan femoral artere oldukça ince yapılı yumuşak bir plastik kanül takılır. Buradan ilerletilen ince bir kateter böbreklere giden renal artere yerleştirilir. Anjiyografik görüntüler kaydedildikten sonra, renal arter içine radyo-frekans (RF) enerji veren bir ablasyon kateteri ilerletilir ve özel noktalara enerji verilerek renal sempatik sinir yolu kısmi olarak bloke edilir.
+
+### Tansiyonum Ne Kadar Düşecek?
+
+Renal sempatik sistemin hipertansiyona olumsuz etkileri ilk olarak 1930’lu yıllarda keşfedilmiştir. Bu yıllarda cerrahi yöntemlerle yapılan bu blokajlar ile hipertansiyonu kontrol altına alındığı gösterilmiştir. Renal denervasyon, cerrahi yönteme benzer olarak olumlu sonuçlar vermekte ancak cerrahi bir işlem olmadığı için çok daha konforlu ve pratik bir yöntemdir. Bu yöntem ile 6 ay içerisinde hastalarda büyük tansiyonun (sistolik) ortalama 20-30 puan düştüğü gözlenmiştir.
+
+### Hangi Hastalara Yapılabilir?
+
+Renal denervasyon adayı hastaların bu işleme alınmadan önce bir girişimsel kardiyolog, nefrolog ve endokrinolog tarafından detaylı olarak incelenmesi önerilmektedir.
