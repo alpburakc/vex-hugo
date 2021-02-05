@@ -107,13 +107,17 @@ Anjiyo giriş yerinde **kanama** olmaması için el bileğine özel şeffaf bir 
 
 **Kasık kapatma cihazları** denilen cihazlar yardımı ile kasıktaki damarın kanayan bölgesi 1 dakikalık bir işlemle kapatılmakta, el ile baskı ve kum torbası bu sayede gerekmemektedir. Hasta 1 saat sonra ayağa kalkabilmekte ve yatağında rahat hareket edebilmektedir. Bu sayede kanama riski de minimuma düşürülmüş oluyor.
 
-Tecrübeli ellerde hastada ek bazı sorunlar da yoksa anjiyo esnasında **kalp damarınınyırtılması** veya patlaması neredeyse yok denecek kadar az bildirilmektedir. Olası riskleri mutlaka doktorunuz ve hemşireniz ile daha ayrıntılı konuşmanızı öneririz.
+Tecrübeli ellerde hastada ek bazı sorunlar da yoksa anjiyo esnasında **kalp damarının yırtılması** veya patlaması neredeyse yok denecek kadar az bildirilmektedir. Olası riskleri mutlaka doktorunuz ve hemşireniz ile daha ayrıntılı konuşmanızı öneririz.
 
 **Stent Nedir?**
 
 **Stent** kalbi besleyen koroner damarlardaki darlıkları veya tıkanıklıkları kalıcı olarak açmak için, bir balon yardımıyla yerleştirilen esneyebilen çok ince tüp şeklinde metal ağlardır.
 
-Stentler genellikle tıbbi kullanımlar için özel geliştirilmiş metal alaşımlardan oluşmaktadır. Bu metal alaşımların özellikleri değişebilmektedir. **Yeni nesil**stentler daha ince ve yuvarlatılmış narin metallerden yapılmaktadır. Çoğunlukla belli yüzeyleri polimerler ile kaplanmakta ve polimerlerin üzerinde de tekrar daralmayı önleyen ilaçlar içermektedirler. Bunlar **ilaçlı stent** olarak adlandırılırlar.
+{{< youtube id="G0vgOYY9e3U" >}}
+
+Stentler genellikle tıbbi kullanımlar için özel geliştirilmiş metal alaşımlardan oluşmaktadır. Bu metal alaşımların özellikleri değişebilmektedir. **Yeni nesil** stentler daha ince ve yuvarlatılmış narin metallerden yapılmaktadır. Çoğunlukla belli yüzeyleri polimerler ile kaplanmakta ve polimerlerin üzerinde de tekrar daralmayı önleyen ilaçlar içermektedirler. Bunlar **ilaçlı stent** olarak adlandırılırlar.
+
+{{< youtube id="yMv5TPW-6DE" >}}
 
 **Neden Stent Gerekiyor?**
 
@@ -126,11 +130,13 @@ Bu darlıklar kritik düzeydeyse açılması gerekmektedir. İlaç tedavisi tek 
 
 Stent ile günümüzde çoğu zor damar ameliyata ihtiyaç duyulmadan açılabilmektedir. “**Stent mi by-pass mı**daha uygun olur?”, bu sorunun cevabı hastanın klinik durumuna ve bazı risk puanlamalarının sonucuna göre verilir.
 
+{{< youtube id="EeCAKdJR5bQ" >}}
+
 **Stent İşlemi Nasıl Yapılır?**
 
 **Stent** işlemi koroner damarın içine ilerletilen saç teli inceliğinde bir telin üzerinden özel bir ilerletici sistem ile gerçekleştirilir. Bir balon üzerine sıkıştırılarak yerleştirilmiş stent darlığın olduğu koroner damara ilerletilir ve tam darlığın olduğu noktaya, monitörlerde milimetrik olarak tespit edilerek implante edilir.
 
-Günümüzde stent işlemi genellikle [**anjiyo**](https://anjiyostent.com/anjiyo-nedir-ve-nasil-yapilir/)ile birlikte aynı seansta yapılabilmektedir. Doktorunuz sizi bilgilendirip devam etmenin uygun olduğunu söyleyebilir.
+Günümüzde stent işlemi genellikle [**anjiyo **](https://anjiyostent.com/anjiyo-nedir-ve-nasil-yapilir/)ile birlikte aynı seansta yapılabilmektedir. Doktorunuz sizi bilgilendirip devam etmenin uygun olduğunu söyleyebilir.
 
 **Size aşama aşama stent işlemini anlatalım:**
 
