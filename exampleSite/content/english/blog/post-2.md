@@ -13,7 +13,11 @@ Anjiyo kalbi besleyen koroner damarları görüntülemek için yapılan bir tetk
 
 Koroner **anjiyo**, kısaca anjiyo olarak da bilinir, en sık yapılan kardiyoloji tetkiklerinden biridir. Anjiyo, **girişimsel kardiyolog** tarafından, anjiyo laboratuvarında yapılır. Kontrast denilen bir boya maddesi ince ve yumuşak kateterler yardımıyla koroner damara verilerek, X-ışını ile damar içinin görüntülenmesi sağlanır.
 
+{{< youtube id="w1Ydmzqycew" >}}
+
 **Anjiyo** yıllar içirisinde teknik olarak gelişerek günümüzdeki halini aldı. Daha yumuşak ve ince kateterler ile [el bileğinden](https://anjiyostent.com/bilekten-anjiyo-daha-mi-iyi/) de yapılabilmektedir. Çoğu merkezde hala kasıktan femoral arter denilen atar damar giriş yolu olarak kullanılıyor olsa da, el bileğinden yapılabilen hastalarda komplikasyon oranlarının azaldığı gösterilmiştir. [Bilekten anjiyo](https://anjiyostent.com/bilekten-anjiyo-daha-mi-iyi/) aynı zamanda hastanın hemen işlemden sonra ayağa kalkabilmesine ve 1-2 saat içerisinde taburcu olmasına izin verirken, kasıktan yapılan anjiyo ile hastanın kum torbası ile yaklaşık 6 saat yatakta yatması gerekmektedir.
+
+{{< youtube id="2HqweA_Jw4A" >}}
 
 **Anjiyo Nasıl Yapılır? Tüm Ayrıntıları ile Adım Adım Anjiyo İşlemi**
 
