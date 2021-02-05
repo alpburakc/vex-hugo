@@ -7,6 +7,8 @@ description: this is a meta description
 ---
 Anjiyo kalbi besleyen koroner damarları görüntülemek için yapılan bir tetkiktir. Görüntüleme için X-ışını kullanılır. Koroner anjiyo kalbe giden atardamarlarda bir daralma olup olmadığını görmek için yapılır. Bu yazıda anjiyo işlemini, nasıl yapıldığını ve neden yapıldığını öğreneceksiniz.
 
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/UtxWe__W1iA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 **Anjiyo Nedir?**
 
 Koroner **anjiyo**, kısaca anjiyo olarak da bilinir, en sık yapılan kardiyoloji tetkiklerinden biridir. Anjiyo, **girişimsel kardiyolog** tarafından, anjiyo laboratuvarında yapılır. Kontrast denilen bir boya maddesi ince ve yumuşak kateterler yardımıyla koroner damara verilerek, X-ışını ile damar içinin görüntülenmesi sağlanır.
