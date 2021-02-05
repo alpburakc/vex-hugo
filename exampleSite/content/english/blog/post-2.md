@@ -5,11 +5,13 @@ image: "/images/alp_kare_3.png"
 description: this is a meta description
 
 ---
+### Anjiyo
+
 Anjiyo kalbi besleyen koroner damarları görüntülemek için yapılan bir tetkiktir. Görüntüleme için X-ışını kullanılır. Koroner anjiyo kalbe giden atardamarlarda bir daralma olup olmadığını görmek için yapılır. Bu yazıda anjiyo işlemini, nasıl yapıldığını ve neden yapıldığını öğreneceksiniz.
 
 {{< youtube id="UtxWe__W1iA" >}}
 
-**Anjiyo Nedir?**
+### **Anjiyo Nedir?**
 
 Koroner **anjiyo**, kısaca anjiyo olarak da bilinir, en sık yapılan kardiyoloji tetkiklerinden biridir. Anjiyo, **girişimsel kardiyolog** tarafından, anjiyo laboratuvarında yapılır. Kontrast denilen bir boya maddesi ince ve yumuşak kateterler yardımıyla koroner damara verilerek, X-ışını ile damar içinin görüntülenmesi sağlanır.
 
@@ -19,7 +21,7 @@ Koroner **anjiyo**, kısaca anjiyo olarak da bilinir, en sık yapılan kardiyolo
 
 {{< youtube id="2HqweA_Jw4A" >}}
 
-**Anjiyo Nasıl Yapılır? Tüm Ayrıntıları ile Adım Adım Anjiyo İşlemi**
+### **Anjiyo Nasıl Yapılır? Tüm Ayrıntıları ile Adım Adım Anjiyo İşlemi**
 
 * Anjiyo günü hasta yaklaşık 2 saat aç kalarak hastaneye gelir
 * Yatış işlemleri tamamlandıktan sonra hazırlanmak üzere odaya alınır
@@ -52,7 +54,7 @@ Koroner **anjiyo**, kısaca anjiyo olarak da bilinir, en sık yapılan kardiyolo
 * Artık sağlıklı bir şekilde eve gitmeye hazırsınız
 * Eve giderken mutlaka yerinize bir yakınınız araba kullansın. İşlem günü anjiyo yapılan elinizle ağır birşey kaldırmayın. Merdiven çıkabilirsiniz ve ertesi gün banyo yapabilirsiniz
 
-**Anjiyo Neden Yapılır? Anjiyo Kime Yapılır?**
+### **Anjiyo Neden Yapılır? Anjiyo Kime Yapılır?**
 
 Doktorunuz sizden aşağıdaki sebeplerden ötürü anjiyo yaptırmanızı isteyebilir:
 
@@ -64,7 +66,7 @@ Doktorunuz sizden aşağıdaki sebeplerden ötürü anjiyo yaptırmanızı istey
 * Diğer kan damarı problemleri veya göğüs yaralanması
 * Ameliyat gerektiren bir kalp kapağı problemi varsa
 
-**Anjiyo Çeşitleri Nelerdir?**
+### **Anjiyo Çeşitleri Nelerdir?**
 
 Koroner anjiyo, yani kalp damarlarının görüntülenmesi için farklı teknolojiler ve farklı giriş yerleri vardır. Anjiyo giriş yerine göre de iki farklı yöntemle yapılabilmektedir:
 
@@ -73,11 +75,11 @@ Koroner anjiyo, yani kalp damarlarının görüntülenmesi için farklı teknolo
 
 Her iki yöntemle de tüm koroner damarlar aynı görüntü kalitesi ile görüntülenebilmektedir. Kalbi besleyen tüm koroner damarlar ve yan dalları bu iki yöntemle aynı boya maddesi ile, aynı düzeyde görüntülenir. [Bilekten](https://anjiyostent.com/bilekten-anjiyo-daha-mi-iyi/) yapılan anjiyo koroner anjiyo laboratuarında bir girişimsel kardiyolog tarafından gerçekleştirilir. Lokal anestezi ile el bileği uyuştrulur. Sonrasında çok ince ve yumuşak kateterler bir tel üzerinden ilerletilir ve kalp damarlarına ulaşılır. Kontrast denilen boya maddesi azar azar enjekte edilerek koroner damarları spesifik olarak görüntülenmiş olur. İşlem süresi yaklaşık 10 dakikadır. Hasta işlem sonunda ayakta veya oturarak odasına alınır ve 1-2 saat sonra taburcu edilir. Eğer kritik bir darlık tespit edildiyse, stent işlemine yine koldan devam edilir ve sonunda odasına yine ayakta veya oturarak alınır. Ertesi gün normal hayatına genellikle dönebilir.
 
-**Bilekten Anjiyo Nedir ve Nasıl Yapılmaktadır?**
+### **Bilekten Anjiyo Nedir ve Nasıl Yapılmaktadır?**
 
 Koldan anjiyo sırasında el bileğinizdeki atardamara **ince**, yumuşak plastik bir kılıf yerleştirilir. Bu kılıfın içinden yine yumuşak ve ince plastik kateterler vasıtasıyla kalp damarlarının çıkış yerine ilerletilir. Kontrast madde (anjiyo boyası) kateterin içinden enjekte edilir ve hareketli röntgen filmleri dijital ortamda kaydedilir. Prosedürün bu bölümüne **koroner anjio** denir. Bu görüntülere ek olarak bazı özel durumlarda ileri görüntüleme ve değerlendirme yöntemleri olan intravasküler ultrason (IVUS), optik koherans tomografi (OCT) veya fraksiyonel akım rezervi (FFR) ölçümleri de yapmak gerekebilir. Tüm bu işlemler lokal anestezi ile bilekten yapılmaktadır.
 
-**Bilekten Anjiyonun Avantajları Nelerdir?**
+### **Bilekten Anjiyonun Avantajları Nelerdir?**
 
 İlk kez 1948 yılında kullanılan [bilekten anjiyo](https://anjiyostent.com/bilekten-anjiyo-daha-mi-iyi/) 2000’li yılların başında dünyada yaygın kullanılmaya başlanmıştır. Artık çok daha ince ve yumuşak kateterlerle işlemin konforu daha da artmıştır.
 
@@ -85,7 +87,7 @@ El bileğinden yapılan anjiyo sonrası kanama komplikasyonları daha az gelişm
 
 Bu yöntemden en çok faydalanan hastalar, kilolu olan, yatakta sırt üstü yatamayacak, ortopedik sorunları olan, prostat nedeniyle sık idrara çıkan dolayısıyla erken ayağa kalkması gereken hastalar, yaşlı hastalar ve kronik akciğer hastalığı olanlardır.
 
-**El Bileğinden mi, Kasıktan mı Yapılmalı?**
+### **El Bileğinden mi, Kasıktan mı Yapılmalı?**
 
 Doktorunuz hangi yöntem ile daha güvenli yapacağını düşünüyorsa o şekilde yapılmalıdır. [El bileğinden anjiyo](https://anjiyostent.com/bilekten-anjiyo-daha-mi-iyi/) zaman içerisinde oldukça gelişmiştir. Bunun için özel malzemeler geliştirilmiştir. Kasıkta kullanılan malzemelerden daha ince yapılıdır.
 
@@ -93,7 +95,7 @@ Doktorunuz hangi yöntem ile daha güvenli yapacağını düşünüyorsa o şeki
 
 Anjiyo yaklaşık 10 dakika sürer. Eğer el bileğinden yapıldıysa hemen ayağa kalkabilir ve 1-2 saat içinde taburcu olabilirsiniz. Kasıktan yapıldığında en az 5-6 saat yatakta istirahat etmeniz gerekir. Kum torbası ve sıkı bir bandaja ihtiyaç duyulur. Doktorunuzla anjiyo tekniğini konuşabilirsiniz
 
-**Anjiyonun Riskleri Nelerdir?**
+### **Anjiyonun Riskleri Nelerdir?**
 
 Anjiyo kararı mutlaka bir kardiyolog tarafından verilmelidir. Hastayı değerlendirdiğinde eğer kalp damar hastalığı şüphesi yüksek ise anjiyo yapılması çok önemlidir. Çünkü tanının kesinleşmesi için en iyi yöntemdir. Koroner damarların gözümüzle görülmesini sağlar. Tanının kesinleşmemesi veya ertelenmesi bazen bir kalp krizine sebep olabilmektedir. Bu nedenle kardiyoloğun önerdiği durumda anjiyo olunmaması en önemli riski oluşturmaktadır.
 
@@ -109,7 +111,7 @@ Anjiyo giriş yerinde **kanama** olmaması için el bileğine özel şeffaf bir 
 
 Tecrübeli ellerde hastada ek bazı sorunlar da yoksa anjiyo esnasında **kalp damarının yırtılması** veya patlaması neredeyse yok denecek kadar az bildirilmektedir. Olası riskleri mutlaka doktorunuz ve hemşireniz ile daha ayrıntılı konuşmanızı öneririz.
 
-**Stent Nedir?**
+### **Stent Nedir?**
 
 **Stent** kalbi besleyen koroner damarlardaki darlıkları veya tıkanıklıkları kalıcı olarak açmak için, bir balon yardımıyla yerleştirilen esneyebilen çok ince tüp şeklinde metal ağlardır.
 
@@ -119,7 +121,7 @@ Stentler genellikle tıbbi kullanımlar için özel geliştirilmiş metal alaş�
 
 {{< youtube id="yMv5TPW-6DE" >}}
 
-**Neden Stent Gerekiyor?**
+### **Neden Stent Gerekiyor?**
 
 Kalbi besleyen koroner damarlar daraldığı zaman vücuda kan pompalayan kalp çalışmakta zorlanabilir. Kalp kasının güçlü çalışması için oksijene ihtiyacı vardır ve oksijen kalp kasına bu damarlar ile gelen kan ile ulaşmaktadır. Kalbin gücü azaldığında tüm vücudun kanlanması azalacak ve çabuk yorulmaya başlayacaksınız. Kalp yeterli oksijenlenmediğinde genellikle efor esnasında nefes nefese kalma veya göğüste sıkışma hissi oluşur.
 
@@ -132,7 +134,7 @@ Stent ile günümüzde çoğu zor damar ameliyata ihtiyaç duyulmadan açılabil
 
 {{< youtube id="EeCAKdJR5bQ" >}}
 
-**Stent İşlemi Nasıl Yapılır?**
+### **Stent İşlemi Nasıl Yapılır?**
 
 **Stent** işlemi koroner damarın içine ilerletilen saç teli inceliğinde bir telin üzerinden özel bir ilerletici sistem ile gerçekleştirilir. Bir balon üzerine sıkıştırılarak yerleştirilmiş stent darlığın olduğu koroner damara ilerletilir ve tam darlığın olduğu noktaya, monitörlerde milimetrik olarak tespit edilerek implante edilir.
 
@@ -155,7 +157,7 @@ Günümüzde stent işlemi genellikle [**anjiyo **](https://anjiyostent.com/anji
 13. Ertesi günün sabahından kontroller yapıldıktan sonra ilaçlar ve sağlıklı yaşam hakkında öneriler yapılarak taburcu edilir
 14. Bir ay sonrası için kardiyoloji randevu ayarlanır
 
-**Stent mi By-Pass Ameliyatı mı?**
+### **Stent mi By-Pass Ameliyatı mı?**
 
 Kalbi besleyen koroner damarlar kritik düzeyde daraldığında açılması için 2 yöntem vardır:
 
@@ -174,7 +176,7 @@ Kararın verilmesinde özel bazı puanlama sistemleri vardır. Girişimsel kardi
 
 Tartışmalı durumlarda kalp konseyi denilen toplantılarda kardiyologlar ve kalp damar cerrahları en iyi tedavi seçeneğine ortak olarak karar verebilmektedir.
 
-**Stent İşlemi Nasıl Yapılır?**
+### **Stent İşlemi Nasıl Yapılır?**
 
 **Stent** işlemi koroner damarın içine ilerletilen saç teli inceliğinde bir telin üzerinden özel bir ilerletici sistem ile gerçekleştirilir. Bir balon üzerine sıkıştırılarak yerleştirilmiş stent darlığın olduğu koroner damara ilerletilir ve tam darlığın olduğu noktaya, monitörlerde milimetrik olarak tespit edilerek implante edilir.
 
@@ -197,7 +199,7 @@ Günümüzde stent işlemi genellikle [**anjiyo**](https://anjiyostent.com/anjiy
 13. Ertesi günün sabahından kontroller yapıldıktan sonra ilaçlar ve sağlıklı yaşam hakkında öneriler yapılarak taburcu edilir
 14. Bir ay sonrası için kardiyoloji randevu ayarlanır
 
-**Stent Riskleri Nedir?**
+### **Stent Riskleri Nedir?**
 
 Koroner damarlardaki darlıkları açmanın en etkili ve güvenilir yöntemi stent yerleştirmektir. Ancak mevcut kalp hastalığının getirdiği riskler ve işlemin bazı riskleri de vardır. Çoğunlukla stent işlemi mevcut riskinizi azaltmak için yapılmaktadır. Böylelikle iyileşme şansınız artacaktır. Ama işlem esnasında nadir de olsa bazı komplikasyonlar gelişebilir. Bunun önüne geçmenin en etkili yolu donanımlı bir merkezde, tecrübeli bir girişimsel kardiyologun bu işlemi yapmasıdır.
 
