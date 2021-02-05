@@ -1,13 +1,13 @@
 ---
 title: Koroner Anjiyo ve Stent
-date: 2021-02-05T00:00:00+03:00
+date: 2021-02-05T00:00:00.000+03:00
 image: "/images/alp_kare_3.png"
 description: this is a meta description
 
 ---
 Anjiyo kalbi besleyen koroner damarları görüntülemek için yapılan bir tetkiktir. Görüntüleme için X-ışını kullanılır. Koroner anjiyo kalbe giden atardamarlarda bir daralma olup olmadığını görmek için yapılır. Bu yazıda anjiyo işlemini, nasıl yapıldığını ve neden yapıldığını öğreneceksiniz.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UtxWe__W1iA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+{{< youtube id="UtxWe__W1iA" >}}
 
 **Anjiyo Nedir?**
 
