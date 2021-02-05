@@ -1,5 +1,5 @@
 ---
-title: TAVI
+title: İşlemler
 description: this is a meta description
 date: 2021-02-05T00:00:00+03:00
 image: "/images/tavi_evolut_alp_burak_catakoglu.png"
