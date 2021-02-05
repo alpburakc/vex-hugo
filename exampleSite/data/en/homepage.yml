@@ -78,7 +78,7 @@ testimonial:
   testimonial_item:
   - name: Aynur R.
     designation: "2014"
-    image: ''
+    image: images/avater.png
     content: Gittiğim hastanede tanıdığım doktorlar sayesinde doktorumla tanıştım.
       Kesinlikle çok başarılı bir doktor bilgili en önemlisi insan psikolojisinden
       çok iyi anlayan bir doktor. Tedavim en iyi şekilde sonuç verdi. Hastalarını
@@ -86,7 +86,7 @@ testimonial:
       bırakmıyor. Hastalarıyla iletişimini tedavi bitse de sürdürüyor.
   - name: Zehra T.
     designation: "2018"
-    image: ''
+    image: images/avater.png
     content: Acil olarak hastaneye gittiğimde orada yetkili bir arkadaşım bizi Alp
       beye yönlendirdi. Çok doğru bir yönlendirme oldu. 2 operasyon gerçekleştirdi.
       Aynı zamanda eşimde bypass oldu 5 damarı açıldı Alp bey tarafından. Her konuda
@@ -94,7 +94,7 @@ testimonial:
       hızlı tedavisi ile oldukça başarılı bir doktor.
   - name: Taner R.
     designation: "2018"
-    image: ''
+    image: images/avater.png
     content: Hocamızı 2015 yılında internetten araştırarak bulduk. Kalp yetmezliği
       ve geçmişinde bypass ameliyatı bulunan babam Alp Burak hocam sayesinde yeniden
       doğdu diyebilirim. Bu dünyadaki en iyi kardiyologlardan birisidir. Allah razı
