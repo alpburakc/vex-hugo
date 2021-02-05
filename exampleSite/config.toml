@@ -6,7 +6,7 @@ theme = "vex-hugo"
 title = "Prof. Dr. Alp Burak Çatakoğlu | Girişimsel Kardiyolog"
 [Languages.en]
 contentDir = "content/english"
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Kalbimizle Tasarladık [Klinovo](https://klinovo.com/)
 languageCode = "en-us"
 languageName = "En"
 weight = 1
