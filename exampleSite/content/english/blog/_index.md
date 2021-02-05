@@ -2,44 +2,28 @@
 title: İşlemler
 description: this is a meta description
 date: 2021-02-05T00:00:00+03:00
-image: "/images/tavi_evolut_alp_burak_catakoglu.png"
+image: "/images/alp_kare_3.png"
 
 ---
-### TAVI Nedir?
+### Yaptığım İşlemler
 
-[**TAVI**](https://www.google.com.tr/search?sxsrf=ALeKk01sGhsi-MGOnmwsIreJYEVSF0IZVA%3A1592740919278&source=hp&ei=N0zvXs_qDqP5qwHpgbHYDA&q=tavi&oq=tavi&gs_lcp=CgZwc3ktYWIQAzIECCMQJzIHCAAQFBCHAjICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgYIIxAnEBM6BAgAEENQxwZYpglg6gpoAHAAeAKAAbkCiAGNBpIBBzAuMy4wLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiP4tel7pLqAhWj_CoKHelADMsQ4dUDCAc&uact=5) eskiden olduğu gibi göğüs kafesi açılmadan ve kalp durdurulmadan, ciddi derecede daralmış aort kapağın, kateteter yardımıyla ilerletilen biyolojik yeni bir kapakla değiştirilmesi işlemidir.
+Kalp ve damar hastalıklarının pek çok alanında ameliyatsız yöntemlerle, ileri teknolojileri kullanarak tedavi seçenekleri sunmaktayım. 
 
-10 yılı aşkın süredir yapılan bu işlem, zaman içerisinden teknolojik olarak gelişmiş ve artık pek çok hasta uyutulmadan dahi tedavi edilebilmektedir. Yeni teknolojiler ile yapılan işlemlerden 1-2 gün sonra bile artık taburculuk mümkün olabilmektedir.
+Bu işlem seçeneklerinden başlıcaları şunlardır:
 
-Bu işlem iki farklı isimle bilinir:
+1. El bileğinden anjiyo ve stent (kalp damarları)
+2. TAVI (aort kapağı)
+3. MitraClip ve TriClip (mitral ve triküspit kapak)
+4. Renal denervasyon (hipertansiyon)
+5. Karotis stent (şah damarı)
+6. Periferik girişimler (bacak damarları)
 
-1. TAVI: Transkateter aort kapak implantasyonu
-2. **TAVR**: Transkateter aort kapak replasmanı
+Kullandığım ileri teknolojilerden önde gelenler şunlardır:
 
-Aslında her ikisi de aynı işlemi anlatmaktadır.
-
-{{< youtube id="TinTCuqJ8xE" >}}
-
-### TAVI Kapağı Nasıldır?
-
-**TAVI** yöntemi ile yerleştirilen aort kapakları biyolojik kapaklardır. Çoğunlukla sığır ve domuz kapakları kullanılır. Üzerleri yıpranmayı önleyici bazı malzemeler ile kaplanır. Metal bir stentin üzerine yerleştirilmiş bu kapaklar hasta ve daralmış olan aort kapağın üzerine balon yardımıyla (balon expandable) veya kendiliğinden genişleyerek (self expandable) konumlandırılır.
-
-{{< youtube id="s8nqpHalJfs" >}}
-
-### TAVI İşlemi Nasıl Yapılır?
-
-TAVI, bir damara yerleştirilen [stent](https://anjiyostent.com/category/stent/) işlemine benzer bir işlemdir. Bir kateter vasıtası ile tamamen katlanabilir bir kapak, hasta olan kapağın üzerine bir balon şişirilerek, veya kendi kendine genleşerek yerleştirilir ve bu sayede hasta kapağın yerini sağlıklı çalışan bir kapak alır. Yeni kapak genişletildiğinde, eski hasta olan kapağı çevreye doğru iter ve çalışmaya başladığında sağlıklı ve normal kan akımına imkan sağlar.
-
-### TAVI mi Aort Kapak Ameliyatı mı?
-
-Bu işlem FDA (Amerikan Gıda ve İlaç Bakanlığı) tarafından yakın zamanda onaylanmış, şikayeti olan aort kapak darlığı hastalarında, eğer **ameliyat riski yüksek ise**, ameliyata alternatif olarak yapılabilen bir tedavi yöntemidir. Standart aort kapak ameliyatı ile TAVI arasında belirgin farklar vardır.
-
-Genellikle standart kapak ameliyatı, göğüs kafesi açılarak yapılır. TAVI ise genellikle kateter vasıtası ile çoğunlukla kasıktan, yapılabilmektedir. Göğüs kemiklerine dokunulmadığı için hastalar çok kısa sürede iyileşmektedir.
-
-Günümüzde pek çok hasta uyutulmadan sadece sedasyon dediğimiz yatıştırıcı ilaçlarla dahi tedavi olabilmektedir.
-
-### TAVI için En İyi Aday Kimdir?
-
-TAVI işleminin yapıldığı hastalar genellikle 70’li, 80’li yaşlarda olan kişilerdir. Dolayısıyla eşlik eden başka tıbbi sorunları vardır ve bu tür minimal invazif ve hızlı iyileşme beklenen bir yöntemden daha çok fayda görürler.
-
-Yeni bir yöntem olmakla beraber, aort kapak hastalığı olan veya başka bir tedavi alternatifi sınırlı olan hastalarda yaşam kalitesini önemli ölçüde arttırmaktadır. İlaç tedavisi ile sağlanamayan, kalbin daha fazla zarar görmesini engellemekte, hayat kalitesini ve yaşam süresini artırmaktadır.
+1. OCT (damar içi 3 boyutlu görüntüleme)
+2. FFR (damar için kan akımının ölçümü)
+3. Rotablatör (ileri derecede kireçli damarların tedavisi)
+4. Shockwave (kireçli damarların ses dalgaları ile tedavisi)
+5. İlaçlı stent (kalp damarları için)
+6. Eriyen stent (kalp damarları için)
+7. İlaçlı balon (yeniden daralan stentler ve bacak damarları için)
