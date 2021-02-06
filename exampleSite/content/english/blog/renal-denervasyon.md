@@ -1,7 +1,7 @@
 ---
 title: Dirençli Tansiyon. Çaresiz Değil.
-date: 2021-02-05T00:00:00+03:00
-image: "/images/2-5-medtronic-symplicity-spyral.png"
+date: 2021-02-05T00:00:00.000+03:00
+image: "/images/x0000_medtronic_symplicity_spyral_4k_still_down_barrel_13w.png"
 description: this is a meta description
 url: "/renal-denervasyon"
 
