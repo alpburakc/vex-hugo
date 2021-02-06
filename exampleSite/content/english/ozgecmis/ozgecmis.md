@@ -3,6 +3,7 @@ date = "2021-02-04T00:00:00+03:00"
 description = "Prof. Dr. Alp Burak Çatakoğlu'nun özgeçmişini inceleyebilirsiniz"
 image = "/images/watch.png"
 title = "Özgeçmiş"
+url = "/ozgecmis"
 
 +++
 ## Girişimsel Kardiyolog.
