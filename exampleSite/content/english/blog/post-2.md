@@ -3,6 +3,7 @@ title: Koroner Anjiyo ve Stent
 date: 2021-02-05T00:00:00.000+03:00
 image: "/images/alp_kare_3.png"
 description: this is a meta description
+url: "content/english/anjiyostent"
 
 ---
 ### Anjiyo
