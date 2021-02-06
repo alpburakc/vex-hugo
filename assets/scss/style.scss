@@ -12,9 +12,9 @@ $icon-font: 'themefisher-font' !important;
     Common Css
 --*/
 body {
-  font-size: 14px;
+  font-size: 20px;
   font-weight: 300;
-  line-height: 25px;
+  line-height: 37px;
   color: #3b4045;
   font-family: $primary-font;
   -webkit-font-smoothing: antialiased;
@@ -40,38 +40,38 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 300;
+  font-weight: 600;
   margin: 0px;
 }
 
 h1,
 .h1 {
   font-size: 44px;
-  line-height: 56px;
+  line-height: 72px;
 }
 
 h2,
 .h2 {
   font-size: 30px;
-  line-height: 35px;
+  line-height: 51px;
 }
 
 h3,
 .h3 {
   font-size: 23px;
-  line-height: 25px;
+  line-height: 41px;
 }
 
 h4,
 .h4 {
   font-size: 20px;
-  line-height: 24px;
+  line-height: 37px;
   font-weight: 400;
 }
 
 p {
-  font-size: 18px;
-  line-height: 25px;
+  font-size: 20px;
+  line-height: 37px;
 }
 
 ul {
