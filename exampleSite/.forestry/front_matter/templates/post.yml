@@ -17,5 +17,3 @@ fields:
 - type: text
   name: url
   label: url
-pages:
-- exampleSite/content/english/blog/ozgecmis.20191203072044
