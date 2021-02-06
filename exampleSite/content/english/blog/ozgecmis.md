@@ -8,11 +8,11 @@ url = "/ozgecmis"
 +++
 1975 Almanya doğumlu. 1999'da **Cerrahpaşa** Tıp Fakültesi İngilizce Tıp mezunu. 2004'de Florence Nightingale Hastanesi'nde uzman kardiyolog. 2013'e kadar **Florence Nightingale Hastanesi**'nde girişimsel kardiyolog. 2012'de Doçent ve 2017'de **Profesör** ünvanını almıştır. 2008'de **Avrupa Kardiyoloji Derneği** akademik üyesi seçilmiştir (FESC). 2013'ten bu yana **Liv Hospital** Ulus, Kalp Katerizasyonu ve Anjiyografi Ünitesi direktörü, **İstinye Üniversitesi** Kardiyoloji Anabilim Dalı öğretim üyesidir.
 
-&nbsp;
+ 
 
 ## Görevler.
 
-&nbsp;
+ 
 
 ### Uluslararası Görevler
 
@@ -28,7 +28,11 @@ url = "/ozgecmis"
 4. Türk Kardiyoloji Derneği üyesi
 5. Advanced Cardiovascular Solutions toplantılarının kurs direktörü
 
+&nbsp;
+
 ## Akademik Ünvanlar.
+
+&nbsp;
 
 ### Profesör Doktor
 
@@ -58,7 +62,11 @@ Florence Nightingale Hastanesi, İstanbul (1999 – 2004)
 
 Kdz. Ereğli Anadolu Lisesi (1987 – 1993)
 
+&nbsp;
+
 ## Mesleki Tecrübe.
+
+&nbsp;
 
 ### İstinye Üniversitesi Kardiyoloji Anabilim Dalı
 
@@ -114,7 +122,11 @@ Nöroşirurji alanında staj yaptı
 
 İç hastalıkları stajı için farklı departmanlarda çalıştı
 
+&nbsp;
+
 ## Sertifikalar.
+
+&nbsp;
 
 #### Bioresorbable Vascular Scaffold (Eriyen Stent) Klinik Kullanım Sertifikasyonu
 
@@ -134,7 +146,11 @@ Edwards Headquarters, Nyon, İsviçre
 
 ESC European Heart House, Sophia Antipolis, Fransa
 
+&nbsp;
+
 ## Ödül.
+
+&nbsp;
 
 #### Türk Kardiyoloji Derneği – Eczacıbaşı Zentiva En İyi Girişimsel Olgu Ödülü
 
@@ -142,13 +158,19 @@ ESC European Heart House, Sophia Antipolis, Fransa
 
 LAD’deki Kronik Tam Tıkalı Lezyona ve LIMA-LAD Anastomozundaki Darlığa Perkütan Koroner Girişim. XVI. Ulusal Uygulamalı Girişimsel Kardiyoloji Toplantısı, Antalya
 
+&nbsp;
+
 ## Yabancı Dil.
 
 1. İngilizce (Proficiency)
 2. Almanca
 3. Fransızca
 
+&nbsp;
+
 ## Bilimsel Makalelerden Bazıları.
+
+&nbsp;
 
 #### Relationship between endothelial dysfunction and cardiovascular risk factors and the extent and severity of coronary artery disease.
 
@@ -206,7 +228,11 @@ Anadolu Kardiyol Derg. 2007 Sep;7(3):350-1
 
 Tohoku J Exp Med. 2003 Feb;199(2):59-68.
 
+&nbsp;
+
 ## Bazı Konuşmalar.
+
+&nbsp;
 
 #### OCT in ACS. Panelist
 
