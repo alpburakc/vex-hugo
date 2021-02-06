@@ -6,7 +6,7 @@ description: this is a meta description
 url: "/anjiyostent"
 
 ---
-### Anjiyo
+### **Anjiyo**
 
 Anjiyo kalbi besleyen koroner damarları görüntülemek için yapılan bir tetkiktir. Görüntüleme için X-ışını kullanılır. Koroner anjiyo kalbe giden atardamarlarda bir daralma olup olmadığını görmek için yapılır. Bu yazıda anjiyo işlemini, nasıl yapıldığını ve neden yapıldığını öğreneceksiniz.
 
