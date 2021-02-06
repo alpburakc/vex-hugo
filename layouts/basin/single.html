@@ -1,0 +1,19 @@
+{{ define "main" }}
+
+<section class="section">
+  <div class="container">
+    <div class="row">
+      
+      <div class="col-lg-10 col-md-7 offset-lg-1">
+        <h1 class="mb-4">{{.Title | markdownify}}</h1>
+        <p class="kanal">{{if .Params.kanal}}{{.Params.kanal}}{{else}}{{.Params.kanal}}{{end}}
+        </p>
+        <div class="content">
+          {{.Content}}
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
