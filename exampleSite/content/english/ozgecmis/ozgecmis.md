@@ -1,11 +1,11 @@
-+++
+---
 date = "2021-02-04T00:00:00+03:00"
 description = "Prof. Dr. Alp Burak Çatakoğlu'nun özgeçmişini inceleyebilirsiniz"
 image = "/images/watch.png"
 title = "Özgeçmiş"
 url = "/ozgecmis"
 
-+++
+---
 ## Girişimsel Kardiyolog.
 
 1975 Almanya doğumlu. 1999'da **Cerrahpaşa** Tıp Fakültesi İngilizce Tıp mezunu. 2004'de Florence Nightingale Hastanesi'nde uzman kardiyolog. 2013'e kadar **Florence Nightingale Hastanesi**'nde girişimsel kardiyolog. 2012'de Doçent ve 2017'de **Profesör** ünvanını almıştır. 2008'de **Avrupa Kardiyoloji Derneği** akademik üyesi seçilmiştir (FESC). 2013'ten bu yana **Liv Hospital** Ulus, Kalp Katerizasyonu ve Anjiyografi Ünitesi direktörü, **İstinye Üniversitesi** Kardiyoloji Anabilim Dalı öğretim üyesidir.
