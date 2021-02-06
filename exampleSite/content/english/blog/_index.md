@@ -3,6 +3,7 @@ title: İşlemler
 description: this is a meta description
 date: 2021-02-05T00:00:00+03:00
 image: "/images/alp_kare_3.png"
+url: "/islemler"
 
 ---
 ### Yaptığım İşlemler
