@@ -8,5 +8,8 @@ fields:
 - type: text
   name: description
   label: description
+- type: text
+  name: url
+  label: url
 pages:
 - exampleSite/content/english/ozgecmis/ozgecmis.md
