@@ -3,6 +3,7 @@ date = 2021-02-04T21:00:00Z
 description = "this is a meta description"
 image = "/images/tavi_evolut_alp_burak_catakoglu.png"
 title = "TAVI"
+url = "/tavi"
 
 +++
 ### TAVI Nedir?
