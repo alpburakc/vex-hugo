@@ -1,11 +1,8 @@
 - id: "add_to_cart"
-  translation: "Add to Cart"
+  translation: "Sepete Ekle"
   
 - id: "send"
-  translation: "Send Now"
-  
-- id: "subscribe"
-  translation: "Subscribe"
+  translation: "Şimdi Gönder"
   
 - id: "read_more"
   translation: "Devamını Oku"
