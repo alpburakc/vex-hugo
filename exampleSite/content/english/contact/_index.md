@@ -1,7 +1,7 @@
 ---
 title: Randevu
-description: Prof. Dr. Alp Burak Çatakoğlu için randevu ve danışma taleplerinizi sayfamızdan
-  alabilirsiniz
+description: Prof. Dr. Alp Burak Çatakoğlu için randevu ve danışma taleplerinizi sayfamızdan alabilirsiniz
+url: "/randevu"
 office:
   title: Bize Ulaşın
   mobile: '05344025050'
