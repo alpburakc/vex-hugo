@@ -20,3 +20,5 @@ fields:
 - type: text
   name: youtube
   label: youtube
+pages:
+- exampleSite/content/english/basin/kolesterol-ilaclari-i-celim-mi-keselim-mi-riskleri-faydalari-nelerdir.md
