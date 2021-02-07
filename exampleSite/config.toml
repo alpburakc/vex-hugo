@@ -48,7 +48,6 @@ url = "basin"
 weight = 3
 [[menu.main]]
 name = "Anjiyo ve Stent"
-pre = "#"
 url = "anjiyostent"
 weight = 4
 [[menu.main]]
