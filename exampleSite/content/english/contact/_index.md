@@ -1,6 +1,7 @@
 ---
-title: Contact
-description: this is a meta description
+title: Randevu
+description: Prof. Dr. Alp Burak Çatakoğlu için randevu ve danışma taleplerinizi sayfamızdan
+  alabilirsiniz
 office:
   title: Bize Ulaşın
   mobile: '05344025050'
