@@ -10,7 +10,7 @@ office:
     WhatsApp üzerinden, cepten veya sağ alt köşedeki chat bot ile taleplerinizi iletebilirsiniz.
     Size 1 saat içinde geri dönüş sağlayacağız
 opennig_hour:
-  title: Opening Hours
+  title: Müsait Saatler
   day_time:
   - 'Monday: 9:00 – 13:00'
   - 'Tuesday: 9:00 – 19:00'
