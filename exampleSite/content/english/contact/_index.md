@@ -13,10 +13,10 @@ office:
 opennig_hour:
   title: Müsait Saatler
   day_time:
-  - 'Monday: 9:00 – 13:00'
-  - 'Tuesday: 9:00 – 19:00'
-  - 'Wednesday: 9:00 – 13:00'
-  - 'Thursday: 9:00 – 19:00'
-  - 'Friday: 9:00 – 13:00'
+  - 'Pazartesi: 9:00 – 13:00'
+  - 'Salı: 9:00 – 19:00'
+  - 'Çarşamba: 9:00 – 13:00'
+  - 'Perşembe: 9:00 – 19:00'
+  - 'Cuma: 9:00 – 13:00'
 
 ---
