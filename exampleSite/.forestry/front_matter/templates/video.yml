@@ -21,6 +21,7 @@ fields:
   name: youtube
   label: youtube
 pages:
+- exampleSite/content/english/basin/canli-yayinda-el-bileginden-anjiyo.md
 - exampleSite/content/english/basin/kalp-hastaliklari-ve-kalp-krizi.md
 - exampleSite/content/english/basin/kalp-hastaliklarinda-beslenme-ve-saglikli-yasam.md
 - exampleSite/content/english/basin/kalp-krizinde-oksurmek-hayat-kurtarir-mi.md
