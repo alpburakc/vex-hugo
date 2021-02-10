@@ -11,7 +11,7 @@ banner:
 features:
   enable: true
   title: Ameliyatsız Çözümler.
-  image: images/alp3.png
+  image: images/alp4.png
   left_side:
   - title: El Bileğinden Anjiyo ve Stent
     icon: tf-ion-ios-alarm-outline
@@ -33,7 +33,7 @@ features:
       aynı gün taburculuk mümkün
 promo:
   enable: true
-  image: images/alp4.png
+  image: images/alp3.png
   title: Her Zaman Yanınızdayız
   content: Bize aşağıdaki sohbet butonundan ulaşabilirsiniz. Anjiyo filminizi, alınan
     ameliyat veya stent kararları için size yardımcı olmak isteriz. Teknolojik imkanları,
