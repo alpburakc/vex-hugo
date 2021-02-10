@@ -43,7 +43,7 @@ about_product:
   enable: true
   title: Kardiyolojinin Geleceği. Şimdi.
   items:
-  - image: images/showcase/showcase-4.png
+  - image: images/stent.png
     title: Anjiyo Daha Emniyetli ve Daha Konforlu
     content: Dünyadaki en ince ve yumuşak malzemeler ile el bileğinden yapılan anjiyo
       ve stent işlemleri daha emniyetli ve daha konforludur. İşlemden hemen sonra
@@ -53,7 +53,7 @@ about_product:
       enable: true
       label: Ayrıntılar
       link: "/anjiyostent"
-  - image: images/showcase/showcase-3.png
+  - image: images/tavi_evolut_alp_burak_catakoglu.png
     title: İleri Teknolojiler. Sizin İçin.
     content: Sadece anjiyo ve stent teknolojisi değil, kalp ve damar hastalıklarının
       her alanında teknoloji ilerlemektedir. Eskiden ameliyat dışında çaresi olmayan
