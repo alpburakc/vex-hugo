@@ -31,8 +31,8 @@ name = "Basın"
 url = "basin"
 weight = 3
 [[menu.footer]]
-name = "Yorumlar"
-url = "yorumlar"
+name = "İletişim"
+url = "randevu"
 weight = 4
 [[menu.main]]
 name = "Ana Sayfa"
