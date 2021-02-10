@@ -11,7 +11,7 @@ banner:
 features:
   enable: true
   title: Ameliyatsız Çözümler.
-  image: ''
+  image: images/alp2.png
   left_side:
   - title: El Bileğinden Anjiyo ve Stent
     icon: tf-ion-ios-alarm-outline
