@@ -1,6 +1,6 @@
 baseurl = "https://catakoglucom.netlify.app/"
 disableLanguages = ["fr"]
-googleAnalytics = "UA-30642984-1"
+googleAnalytics = ""
 summarylength = "20"
 theme = "vex-hugo"
 title = "Prof. Dr. Alp Burak Çatakoğlu | Girişimsel Kardiyolog"
@@ -19,6 +19,10 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
+name = "İşlemler"
+url = "/islemler"
+weight = "4"
+[[menu.footer]]
 name = "Özgeçmiş"
 url = "ozgecmis"
 weight = 1
@@ -30,10 +34,6 @@ weight = 2
 name = "Basın"
 url = "basin"
 weight = 3
-[[menu.footer]]
-name = "Yorumlar"
-url = "yorumlar"
-weight = 4
 [[menu.main]]
 name = "Ana Sayfa"
 url = "/"
