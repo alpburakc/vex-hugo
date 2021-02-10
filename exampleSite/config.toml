@@ -1,6 +1,6 @@
 baseurl = "https://catakoglucom.netlify.app/"
 disableLanguages = ["fr"]
-googleAnalytics = ""
+googleAnalytics = "UA-30642984-1"
 summarylength = "20"
 theme = "vex-hugo"
 title = "Prof. Dr. Alp Burak Çatakoğlu | Girişimsel Kardiyolog"
