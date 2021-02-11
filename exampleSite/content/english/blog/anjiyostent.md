@@ -2,7 +2,9 @@
 title: Koroner Anjiyo ve Stent
 date: 2021-02-05T00:00:00.000+03:00
 image: "/images/display.png"
-description: this is a meta description
+description: Anjiyo kalp damarlarını görüntülemek için yapılan bir tetkiktir. Stent
+  işlemi ise daralmış koroner damarları açmak için uygulanan kapalı bir tedavi yöntemidir.
+  El bileğinden oldukça güvenlidir.
 url: "/anjiyostent"
 
 ---
