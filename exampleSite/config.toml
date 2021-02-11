@@ -65,11 +65,8 @@ currency = "₺"
 description = "Prof. Dr. Alp Burak Çatakoğlu. Girişimsel kardiyolog. Kalp ve damar hastalıkları. El bileğinden anjiyo ve stent uygulamaları, TAVI, MitraClip, TriClip, renal deneravsyon. Ameliyatsız çözümler için randevu alın."
 logo = "images/logo.png"
 logo_width = "100px"
-
-
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
-
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
 [[params.plugins.js]]
