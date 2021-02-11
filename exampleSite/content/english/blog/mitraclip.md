@@ -2,7 +2,8 @@
 title: Mitral veya Triküspit Kapak Kaçağı. Kliple.
 date: 2019-10-17T11:22:16.000+06:00
 image: "/images/triclip.png"
-description: this is a meta description
+description: MitraClip ve TriClip yöntemi ile ileri derecede mitral veya triküspit
+  kapak kaçağı, kapalı yöntemle, kasıktan girilerek tedavi edilebilmektedir
 url: "/mitraclip"
 
 ---
