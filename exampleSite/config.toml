@@ -19,45 +19,41 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "Özgeçmiş"
-url = "ozgecmis"
-weight = 1
-[[menu.footer]]
-name = "Randevu"
-url = "randevu"
-weight = 2
-[[menu.footer]]
-name = "Basın"
-url = "basin"
-weight = 3
-[[menu.footer]]
 name = "İletişim"
 url = "randevu"
-weight = 4
-[[menu.main]]
-name = "Ana Sayfa"
-url = "/"
-weight = 1
-[[menu.main]]
-name = "Özgeçmiş"
-url = "ozgecmis"
-weight = 2
-[[menu.main]]
+weight = 3
+[[menu.footer]]
 name = "Basın"
 url = "basin"
-weight = 3
+weight = 2
+[[menu.footer]]
+name = "Özgeçmiş"
+url = "ozgecmis"
+weight = 1
 [[menu.main]]
 name = "Anjiyo ve Stent"
 url = "anjiyostent"
 weight = 4
 [[menu.main]]
+name = "Randevu Al"
+url = "randevu"
+weight = 6
+[[menu.main]]
 name = "Diğer İşlemler"
 url = "islemler"
 weight = 5
 [[menu.main]]
-name = "Randevu Al"
-url = "randevu"
-weight = "6"
+name = "Basın"
+url = "basin"
+weight = 3
+[[menu.main]]
+name = "Özgeçmiş"
+url = "ozgecmis"
+weight = 2
+[[menu.main]]
+name = "Ana Sayfa"
+url = "/"
+weight = 1
 [params]
 author = "Alp Burak Çatakoğlu"
 contact_form_action = "#"
@@ -65,11 +61,8 @@ currency = "₺"
 description = "Prof. Dr. Alp Burak Çatakoğlu. Girişimsel kardiyolog. Kalp ve damar hastalıkları. El bileğinden anjiyo ve stent uygulamaları, TAVI, MitraClip, TriClip, renal deneravsyon. Ameliyatsız çözümler için randevu alın."
 logo = "images/logo.png"
 logo_width = "100px"
-
-
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
-
 [[params.plugins.css]]
 link = "plugins/slick/slick.min.css"
 [[params.plugins.js]]
