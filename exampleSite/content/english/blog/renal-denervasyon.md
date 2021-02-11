@@ -2,11 +2,12 @@
 title: Dirençli Tansiyon. Çaresiz Değil.
 date: 2021-02-05T00:00:00.000+03:00
 image: "/images/x0000_medtronic_symplicity_spyral_4k_still_down_barrel_13w.png"
-description: this is a meta description
+description: Hipertansiyonun ilaçsız tedavisi renal denervasyon ile tansiyon problemine
+  alternatif bir tedavi seçeceği mümkündür.
 url: "/renal-denervasyon"
 
 ---
-[Renal denervasyon](https://catakoglu.com/renal-denervasyon/) ile kırılamayan hipertansiyona çözüm bulunabilir. Lokal anestezi ile ameliyatsız ve emniyetli. Üstelik yeni protokollerle aynı gün taburculuk mümkün.
+**Renal denervasyon** ile kırılamayan hipertansiyona çözüm bulunabilir. Lokal anestezi ile ameliyatsız ve emniyetli. Üstelik yeni protokollerle aynı gün taburculuk mümkün.
 
 {{< youtube id="97Ruu2TwPxg" >}}
 
