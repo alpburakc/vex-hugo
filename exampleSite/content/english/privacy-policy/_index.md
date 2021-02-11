@@ -1,33 +1,74 @@
 ---
-title: "Terms & Conditions"
-description : "this is a meta description"
-draft: false
+title: Gizlilik Politikası
+description: Gizlilik politikası
+
 ---
+Bu Gizlilik Politikası en son şu tarihte güncellenmiştir: _11 Şubat 2021._
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+Gizlilik politikamızda güncelleme, değişiklik veya değişiklik yapmamız gerekirse, bu değişiklikler burada yayınlanacaktır.
 
-### Product Buy & delivery policy
+## Biz kimiz
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+Prof. Dr. Alp Burak Çatakoğlu, Klinovo Özel Sağlık Hizmetleri Limited Şirketi adına kurulmuş olan web sitemizin adresi: [https://catakoglu.com](https://catakoglu.com)
 
-### Product Buy & delivery policy
+## Hangi kişisel bilgileri ne amaçla topluyoruz
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+### Yorumlar
 
-### Refund Policy
+Ziyaretçiler sitede yorum bıraktığında yorum formunda gösterilen verileri ve ayrıca istenmeyen yorum tespitine yardımcı olmak için ziyaretçinin IP adresi ve tarayıcı bilgisi metnini de toplarız.
 
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+E-posta adresinizden oluşturulmuş anonimleştirilmiş bir metin (hash olarak da adlandırılır) Gravatar hizmetine, servisi kullanıp kullanmadığınızı görmek için, sağlanabilir. Gravatar servisinin gizlilik politikası şu adrestedir: [https://automattic.com/privacy/.](https://automattic.com/privacy/. "https://automattic.com/privacy/.") Yorumunuzun onaylanmasından sonra profil resminiz yorumunuzla birlikte herkese görünür.
 
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+### Ortam
 
-### Why We Support:
+Görselleri web sitesine yüklerseniz, gömülmüş konum verileri (EXIF GPS) içeren görseller yüklemekten kaçınmalısınız. Web sitesi ziyaretçileri, web sitesindeki görsellerden herhangi bir konum bilgisini indirip çıkarabilir.
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+### İletişim formları
+
+İletişim formları aracılığıyla bize ilettiğiniz bilgiler tarafımızda kalır. Bunlar email adresinizi, adınızı ve soyadınızı, telefon numaranızı içerir.
+
+### Çerezler
+
+Sitemize bir yorum bırakırsanız, isminizi, e-posta adresinizi ve web sitenizi çerezlerde kaydetmeyi seçebilirsiniz. Bunlar size kolaylık sağlamak içindir, böylece başka bir yorum bıraktığınızda bilgilerinizi tekrar doldurmanız gerekmez. Bu çerezler bir yıl süresince kalır.
+
+Eğer giriş sayfasımızı ziyaret ederseniz, tarayıcınızın çerezleri kabul edip etmediğini belirlemek için geçici bir çerez ayarlayacağız. Bu çerez hiçbir kişisel veri içermez ve tarayıcınızı kapattığınızda atılır.
+
+Giriş yaptığınızda, giriş bilgilerinizi ve ekran görüntüleme seçiminizi kaydetmek için birkaç çerez kaydedeceğiz. Giriş çerezleri iki gün ve ekran seçenekleri çerezleri bir yıl boyunca kalır. “Beni hatırla” seçeneğini seçereniz, girişiniz iki hafta boyunca devam eder. Hesabınızdan çıkış yaparsanız, giriş çerezleri kaldırılacaktır.
+
+Bir makaleyi düzenler veya yayınlarsanız tarayıcınıza ek bir çerez kaydedilir. Bu çerez hiçbir kişisel veri içermez ve sadece düzenlediğiniz makalenin yazı kimliğini gösterir. 1 gün sonra zaman aşımına uğrar.
+
+### İstatistik Araçları
+
+Bu sitede ziyaretçilerin istatistiğini tutmak amacıyla Google Analytics kullanılmaktadır. Bu araçlarla web sitemizi kullanım istatistikleriniz tutulur.
+
+### Diğer sitelerden gömülen içerik
+
+Bu sitedeki makaleler gömülü içerik (ör. videolar, görseller, makaleler, vb.) Içerebilir. Diğer web sitelerinden gömülen içerik, ziyaretçinin diğer web sitesini ziyaret etmiş gibi, tam olarak aynı şekilde davranır.
+
+Bu web siteleri sizin hakkınızda veri toplayabilir, çerez kullanabilir, üçüncü taraf tarafından gömülmüş şeklide takip yapabilir ve bir hesabınız varsa ve bu web sitesinde oturum açtıysanız, gömülen içerikle etkleşiminizi takip etme dahil olmak üzere, bu gömülen içerikle etkileşiminizi izleyebilir.
+
+## Verilerinizi ne kadar süre tutarız
+
+Bir yorum bırakırsanız, yorum ve meta verileri süresiz olarak saklanır. Böylece, takip eden yorumlarınızı denetim kuyruğunda tutmak yerine otomatik olarak tanıyabilir ve onaylayabiliriz.
+
+Web sitemize kayıt yaptıran kullanıcılar için (varsa) kullanıcı profilinde sağladıkları kişisel bilgileri de saklarız. Tüm kullanıcılar kişisel bilgilerini istedikleri zaman görebilir, düzenleyebilir veya silebilir (kullanıcı adı değiştirme hariç). Web sitesi yöneticileri de bu bilgileri görebilir ve düzenleyebilir.
+
+## Verileriniz üzerindeki haklarınız nelerdir
+
+Bu sitede bir hesabınız veya yorumlarınız varsa, bize sağladığınız veriler dahil olmak üzere, hakkınızda tuttuğumuz kişisel verilerin dışa aktarılmış bir dosyasını almayı isteyebilirsiniz. Ayrıca, hakkınızda tuttuğumuz tüm kişisel verileri de silmeyi isteyebilirsiniz. Bu, idari, yasal veya güvenlik amaçlarına uymak zorunda olduğumuz hiçbir veriyi içermez.
+
+## Verinizi nereye gönderiyoruz
+
+Ziyaretçi yorumları otomatik istenmeyen yorum algılama servisi aracılığıyla kontrol edilebilir.
+
+## İletişim bilgilerimiz
+
+Herhangi bir veri ihlali olduğunu düşünüyorsnaız bize alpburak@catakoglu.com email adresinden ve +905344025050 telefon numarasından ulaşabilirsiniz.
+
+### Verinizi nasıl koruyoruz
+
+Diğer birçok web sitesi gibi catakoglu.com, günlük dosyalarını kullanır. Bu dosyalar yalnızca ziyaretçileri siteye kaydeder – genellikle barındırma şirketleri ve barındırma hizmetlerinin analitiklerinin bir parçası için standart bir prosedürdür. Günlük dosyalarının içindeki bilgiler arasında internet protokolü (IP) adresleri, tarayıcı türü, İnternet Servis Sağlayıcısı (ISS), tarih / saat damgası, yönlendirme / çıkış sayfaları ve muhtemelen tıklama sayısı bulunur. Bu bilgiler, trendleri analiz etmek, siteyi yönetmek, kullanıcının sitedeki hareketini izlemek ve demografik bilgi toplamak için kullanılır. IP adresleri ve bu tür diğer bilgiler, kişisel olarak tanımlanabilir herhangi bir bilgiyle bağlantılı değildir.
+
+### Kullanıcı verileriyle ne tip otomatik karar verme ve/veya profilleme yapıyoruz?
+
+Google Analytics kullanılarak sık ziyaret halinde olan kullanıcıları internet Facebook, Instagram ve Adwords reklamları ile hedefliyor ve reklamları doğru gösterme amacıyla demografik hedeflemeler yapabiliyoruz.
