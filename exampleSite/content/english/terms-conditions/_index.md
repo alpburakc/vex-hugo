@@ -1,33 +1,28 @@
 ---
-title: "Terms & Conditions"
-description : "this is a meta description"
-draft: false
+title: Şartlar & Koşullar
+description: Şartlar ve koşullar
+
 ---
+Bu bildiri Prof. Dr. Alp Burak Çatakoğlu'nun genel gizlilik ve telif hakkı bildirimidir. Bu web sitesinde Prof. Dr. Alp Burak Çatakoğlu çevrimiçi bilgiler sunmaktadır. Bu siteye erişerek aşağıdaki yasal şartları kabul etmiş sayılırsınız.
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+## Gizlilik Politikamız
 
-### Product Buy & delivery policy
+Gizlilik politikamız için şu sayfayı ziyaret edebilirsiniz: [https://catakoglu.com/gizlilik/](/gizlilik "Gizlilik Poli")
 
-1)All payments are processed securely through PayPal or Stripe. Themefisher does not directly process payments through the website. So any kind of Problem if you face Themefisher will Not Take any responsibility.
+## Telif Hakkı Bildirimi
 
-### Product Buy & delivery policy
+Prof. Dr. Alp Burak Çatakoğlu web sitesinde yer alan metin ve görsellerin tamamı (“İçerik”) Prof. Dr. Alp Burak Çatakoğlu’na aittir ve Fikri Mülkiyet Hakları Yasası ile korunmaktadır. Bu mülkiyet hakkı sitenin herhangi başka bir kullanıcısına geçmez ve bu web sitesi, mülkiyet hakkını elinde bulunduran Prof. Dr. Alp Burak Çatakoğlu’na veya bu sitedeki mülkiyet haklarını elinde tutan üçüncü taraflarda bulunur.
 
-Please read this terms and conditions stated below, which outline a lot of legal goodies, but the bottom line is it’s our aim to always take care of both of us, as a customer, or as a seller. We’ve included many of these terms to legally protect ourselves, but if you have an issue, always feel free to email us at contact@themefisher.com and we’ll do our best to resolve it in a fair and timely way .
+İşbu web sitesinde bulunan içerik, Prof. Dr. Alp Burak Çatakoğlu’nun yazılı ön izni olmadan yeniden oluşturulamaz, bir geri alma sisteminde saklanamaz, herhangi bir doğal dile veya bilgisayar diline çevrilemez, herhangi bir biçimde ve herhangi bir vasıtayla (elektronik, mekanik, fotoğrafik, kayıtlı veya başka şekilde) yeniden aktarılamaz, satılamaz veya dağıtılamaz. İçeriği satamaz, değiştiremez, kamusal veya ticari herhangi bir amaç doğrultusunda çoğaltamaz, sergileyemez, aleni olarak ifa edemez, dağıtamaz veya başka şekilde kullanamazsınız. Bu siteyi ve herhangi bir içeriğini “şekillendiremez” ve sitenin herhangi bir kısmını bir sunucuya kopyalayamazsınız.
 
-### Refund Policy
+İçeriğin farklı mecralarda paylaşılması veya kopyalanması bir şekilde bu web sitesinin ([https://catakoglu.com](https://catakoglu.com)) kaynak gösterilmesini (HTML köprüsü ile) gerektirir.
 
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+## Ticari Markalar
 
-### Support Policy
-1) Since Themefisher is offering non-tangible and irrevocable digital products, we do NOT issue refunds after a purchase is made. If there is a problem with one of the digital download products or if you experience any difficulty with the download, we will fix the problem.
-2) You have 24 hours to inspect your purchase and to determine if it does not meet with the expectations laid forth by The Themefisher. In the event that you wish to receive a refund, Themefisher will issue you a refund and ask you to specify how the product failed to live up to expectations.
-3) When you make a qualifying return, We’ll credit the full amount, less the handling charges. Refunds are generally processed within 3–5 business days after we receive your claim and find it eligible for a return. Refunds are applied to the original payment option.
+Herhangi bir Prof. Dr. Alp Burak Çatakoğlu logosunu veya ticari markasını Prof. Dr. Alp Burak Çatakoğlu'nun yazılı ön onayı olmadan hiçbir şekilde sergileyemez veya kullanamazsınız.
 
-### Why We Support:
+## Feragatname
 
-1. Support covers getting up and help in theme setup
-2. Help using features and theme options
-3. Bug fixes – if you discovered a bug in the theme/Template we will fix it
-4. Functionality which does not work as advertised
+Prof. Dr. Alp Burak Çatakoğlu, işbu web sitesinin kullanımı ile ilgili veya site tarafından sağlanan içeriklerle ilgili sağlanan sonuçlara ilişkin herhangi bir beyanda bulunmaz. Bu nedenle bu sitenin kullanımı sizin kendi sorumluluğunuz altındadır.
+
+Bu web sitesinde yer alan bilgilerin hiç biri doktor tavsiyesi, muayenesi veya tedavisi yerine geçmez. Sağlık durumunuza ilişkin herhangi bir adım atmadan önce muhakkak doktorunuza danışmalısınız.
