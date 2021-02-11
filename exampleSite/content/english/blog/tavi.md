@@ -1,6 +1,6 @@
 +++
 date = 2021-02-04T21:00:00Z
-description = "this is a meta description"
+description = "TAVI ciddi derecede daralmış aort kapağın, kateteter yardımıyla ilerletilen biyolojik yeni bir kapakla değiştirilmesi işlemidir. Kapalı yöntemle hatta genel anestezi olmadan yapılabilir."
 image = "/images/tavi_evolut_alp_burak_catakoglu.png"
 title = "TAVI"
 url = "/tavi"
@@ -8,7 +8,7 @@ url = "/tavi"
 +++
 ### TAVI Nedir?
 
-[**TAVI**](https://www.google.com.tr/search?sxsrf=ALeKk01sGhsi-MGOnmwsIreJYEVSF0IZVA%3A1592740919278&source=hp&ei=N0zvXs_qDqP5qwHpgbHYDA&q=tavi&oq=tavi&gs_lcp=CgZwc3ktYWIQAzIECCMQJzIHCAAQFBCHAjICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAOgYIIxAnEBM6BAgAEENQxwZYpglg6gpoAHAAeAKAAbkCiAGNBpIBBzAuMy4wLjGYAQCgAQGqAQdnd3Mtd2l6&sclient=psy-ab&ved=0ahUKEwiP4tel7pLqAhWj_CoKHelADMsQ4dUDCAc&uact=5) eskiden olduğu gibi göğüs kafesi açılmadan ve kalp durdurulmadan, ciddi derecede daralmış aort kapağın, kateteter yardımıyla ilerletilen biyolojik yeni bir kapakla değiştirilmesi işlemidir.
+**TAVI** eskiden olduğu gibi göğüs kafesi açılmadan ve kalp durdurulmadan, ciddi derecede daralmış aort kapağın, kateteter yardımıyla ilerletilen biyolojik yeni bir kapakla değiştirilmesi işlemidir.
 
 10 yılı aşkın süredir yapılan bu işlem, zaman içerisinden teknolojik olarak gelişmiş ve artık pek çok hasta uyutulmadan dahi tedavi edilebilmektedir. Yeni teknolojiler ile yapılan işlemlerden 1-2 gün sonra bile artık taburculuk mümkün olabilmektedir.
 
