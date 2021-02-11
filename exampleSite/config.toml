@@ -19,41 +19,41 @@ weight = 2
 [markup.goldmark.renderer]
 unsafe = true
 [[menu.footer]]
-name = "İletişim"
-url = "randevu"
-weight = 3
-[[menu.footer]]
-name = "Basın"
-url = "basin"
-weight = 2
-[[menu.footer]]
 name = "Özgeçmiş"
 url = "ozgecmis"
 weight = 1
+[[menu.footer]]
+name = "Basın"
+url = "basin"
+weight = 3
+[[menu.footer]]
+name = "İletişim"
+url = "randevu"
+weight = 4
+[[menu.main]]
+name = "Ana Sayfa"
+url = "/"
+weight = 1
+[[menu.main]]
+name = "Özgeçmiş"
+url = "ozgecmis"
+weight = 2
+[[menu.main]]
+name = "Basın"
+url = "basin"
+weight = 3
 [[menu.main]]
 name = "Anjiyo ve Stent"
 url = "anjiyostent"
 weight = 4
 [[menu.main]]
-name = "Randevu Al"
-url = "randevu"
-weight = 6
-[[menu.main]]
 name = "Diğer İşlemler"
 url = "islemler"
 weight = 5
 [[menu.main]]
-name = "Basın"
-url = "basin"
-weight = 3
-[[menu.main]]
-name = "Özgeçmiş"
-url = "ozgecmis"
-weight = 2
-[[menu.main]]
-name = "Ana Sayfa"
-url = "/"
-weight = 1
+name = "Randevu Al"
+url = "randevu"
+weight = "6"
 [params]
 author = "Alp Burak Çatakoğlu"
 contact_form_action = "#"
