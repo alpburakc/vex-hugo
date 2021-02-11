@@ -7,7 +7,7 @@ Bu bildiri Prof. Dr. Alp Burak Çatakoğlu'nun genel gizlilik ve telif hakkı bi
 
 ## Gizlilik Politikamız
 
-Gizlilik politikamız için şu sayfayı ziyaret edebilirsiniz: [https://catakoglu.com/gizlilik/](/gizlilik "Gizlilik Poli")
+Gizlilik politikamız için şu sayfayı ziyaret edebilirsiniz: [https://catakoglu.com/privacy-policy/](/gizlilik "Gizlilik Poli")
 
 ## Telif Hakkı Bildirimi
 
