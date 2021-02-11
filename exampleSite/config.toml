@@ -23,10 +23,6 @@ name = "Özgeçmiş"
 url = "ozgecmis"
 weight = 1
 [[menu.footer]]
-name = "Randevu"
-url = "randevu"
-weight = 2
-[[menu.footer]]
 name = "Basın"
 url = "basin"
 weight = 3
