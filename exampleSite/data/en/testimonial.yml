@@ -1,10 +1,14 @@
 enable : true
 item    :
   - quote       : >
-      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?
+      Gittiğim hastanede tanıdığım doktorlar sayesinde doktorumla tanıştım.
+      Kesinlikle çok başarılı bir doktor bilgili en önemlisi insan psikolojisinden
+      çok iyi anlayan bir doktor. Tedavim en iyi şekilde sonuç verdi. Hastalarını
+      hassasiyetle muayene ediyor. Tedavim bitmesine rağmen aradığımda beni hiç yanıtsız
+      bırakmıyor. Hastalarıyla iletişimini tedavi bitse de sürdürüyor.
     clientThumb : images/client-logo/clients-1.jpg
-    clientName  : Matt Cutts
-    clientDesignation: CEO , Company Name
+    clientName  : Aynur R.
+    clientDesignation: 2014
 
   - quote       : >
       Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum nulla, soluta dolorum. Eos earum, magni asperiores, unde corpori labore, enim, voluptatum officiis voluptates alias natus. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia officia. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quod, quia?

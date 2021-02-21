@@ -73,7 +73,7 @@ subscription:
   content: Kardiyolojideki gelişmelerden haberdar olun.
   placeholder: Email adresiniz
 testimonial:
-  enable: true
+  enable: false
   title: Sizden Gelenler.
   testimonial_item:
   - name: Aynur R.
