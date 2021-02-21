@@ -10,6 +10,10 @@ sections:
   path: exampleSite/data/en/homepage.yml
   label: Homepage (en)
 - type: document
+  path: exampleSite/data/en/testimonial.yml
+  label: Testimonials (En)
+  match: "**/*"
+- type: document
   path: exampleSite/data/fr/homepage.yml
   label: Homepage (fr)
 - type: heading
