@@ -1,30 +1,35 @@
 {{ $data := index .Site.Data .Site.Language.Lang }}
-
-{{ if $data.homepage.testimonial.enable }}
-<section class="testimonials section" id="testimonial">
-  <div class="container">
-    {{ with $data.homepage.testimonial }}
-    <div class="row justify-content-center">
-      <div class="col-12">
-        <div class="heading">
-          <h2>{{ .title | markdownify }}</h2>
+{{ with $data.testimonial }}
+    {{ if .enable }}
+    <section class="testimonial section" id="testimonial">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    {{ "<!-- testimonial wrapper -->" | safeHTML }}
+                    <div class="testimonial-slider">
+                        {{ range .item }}
+                        {{ "<!-- testimonial single -->" | safeHTML }}
+                        <div class="item text-center">
+                            <i class="tf-ion-quote"></i>
+                            {{ "<!-- client quote -->" | safeHTML }}
+                            <div class="client-details">
+                                <p>{{ .quote }}</p>
+                            </div>
+                            <!-- {{ "<!-- client photo -->" | safeHTML }} 
+                            <div class="client-thumb">
+                                <img src="{{ .clientThumb | absURL }}" class="img-fluid" alt="client-image">
+                            </div> -->
+                            <div class="client-meta">
+                                <h4>{{ .clientName }}</h4>
+                                <span>{{ .clientDesignation }}</span>
+                            </div>
+                        </div>
+                        {{ end }}
+                    </div>
+                </div>
+            </div>
         </div>
-      </div>
-      {{ range .testimonial_item }}
-      <div class="col-lg-4 col-sm-6 mb-5 mb-lg-0 text-center">
-        <div class="testimonial-block">
-          <i class="tf-ion-quote"></i>
-          <p>{{ .content | markdownify }}</p>
-          <div class="author-details">
-            <img src="{{ .image | absURL }}" alt="{{ .name }}">
-            <h4>{{ .name }}</h4>
-            <span>{{ .designation }}</span>
-          </div>
-        </div>
-      </div>
-      {{ end }}
-    </div>
+    </section>
+    {{ "<!-- End Section -->" | safeHTML }}
     {{ end }}
-  </div>
-</section>
 {{ end }}
