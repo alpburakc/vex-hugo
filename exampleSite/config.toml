@@ -56,7 +56,7 @@ url = "randevu"
 weight = "6"
 [params]
 author = "Alp Burak Çatakoğlu"
-contact_form_action = "#"
+contact_form_action = "https://maillist-manage.com/weboptin.zc"
 currency = "₺"
 description = "Prof. Dr. Alp Burak Çatakoğlu. Girişimsel kardiyolog. Kalp ve damar hastalıkları. El bileğinden anjiyo ve stent uygulamaları, TAVI, MitraClip, TriClip, renal deneravsyon. Ameliyatsız çözümler için randevu alın."
 logo = "images/logo.png"
