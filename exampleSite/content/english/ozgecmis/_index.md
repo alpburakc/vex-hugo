@@ -1,6 +1,6 @@
 +++
 date = 2021-02-05T21:00:00Z
-description = "Girişimsel kardiyoloji uzmanı Prof. Dr. Alp Burak Çatakoğlu'nun özgeçmişini imceleyebilirsiniz"
+description = "Girişimsel kardiyoloji uzmanı Prof. Dr. Alp Burak Çatakoğlu'nun özgeçmişini inceleyebilirsiniz"
 image = "/images/alp_kare_3.png"
 title = "Özgeçmiş"
 
